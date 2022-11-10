@@ -151,11 +151,14 @@ h2 {
 
 h3 {
   font-size: 1.25em;
-  line-height: 0px; }
+  line-height: .8; }
 
 h4 {
   font-size: 1.1em;
-  line-height: 0px; }
+  line-height: 0px;
+  font-weight: 500;
+  color: #7f888f;
+  font-family: "Roboto Slab", sans-serif;}
 
 h5 {
   font-size: 0.9em; }

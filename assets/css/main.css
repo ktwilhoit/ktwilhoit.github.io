@@ -128,8 +128,7 @@ em, i {
   font-style: italic; }
 
 p {
-  margin: 0 0 2em 0; 
-  margin-top: -15px;}
+  margin: 0 0 2em 0;}
 
 h1, h2, h3, h4, h5, h6 {
   color: #3d4449;
@@ -152,14 +151,15 @@ h2 {
 
 h3 {
   font-size: 1.25em;
-  line-height: .8; }
+  line-height: .8;}
 
 h4 {
   font-size: 1.1em;
   line-height: 0px;
   font-weight: 500;
   color: #7f888f;
-  font-family: "Roboto Slab", sans-serif;}
+  font-family: "Roboto Slab", sans-serif;
+  margin-bottom: 0;}
 
 h5 {
   font-size: 0.9em; }
